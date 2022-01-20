@@ -18,6 +18,7 @@ public class Main {
 		System.out.println(Math.min(12,32));
 		System.out.println(Math.pow(2,3));
 		System.out.println(Math.sqrt(25));
+		System.out.println("Hello world");
 
 		System.out.println(Math.log(10));
 		System.out.println(Math.log10(10));
